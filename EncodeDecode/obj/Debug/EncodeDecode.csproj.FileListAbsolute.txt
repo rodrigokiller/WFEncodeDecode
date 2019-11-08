@@ -1,0 +1,9 @@
+c:\users\sanguanini.local\documents\visual studio 2015\Projects\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.exe
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\bin\Debug\EncodeDecode.pdb
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.csprojResolveAssemblyReference.cache
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.EncodeDecode.resources
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.Properties.Resources.resources
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.csproj.GenerateResource.Cache
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.exe
+C:\Users\sanguanini.local\Documents\Visual Studio 2015\Projects\EncodeDecode\EncodeDecode\obj\Debug\EncodeDecode.pdb
